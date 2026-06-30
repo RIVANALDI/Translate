@@ -1,0 +1,6 @@
+{
+  "name": "Asisten JP-ID",
+  "description": "AI Penerjemah Dua Arah Jepang ↔ Indonesia Multimodal Tingkat Ahli",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
